@@ -6,7 +6,8 @@
     ],
     "comments": [
       { "id": 1, "body": "Esto es una prueba para consumo de apis", "postId": 1 },
-      { "id": 2, "body": "nuevo contenido", "postId": 1 }
+      { "id": 2, "body": "nuevo contenido", "postId": 2 },
+      { "id": 3, "body": "contenido", "postId": 3 }
     ],
     "profile": {
       "name": "typicode"
