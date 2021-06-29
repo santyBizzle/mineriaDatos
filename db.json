@@ -2,15 +2,12 @@
     "posts": [
       { "id": 1, "title": "Santiago" },
       { "id": 2, "title": "Alex" },
-      { "id": 3, "title": "Francis" },
-      { "id": 4, "title": "Izack" }
-
+      { "id": 3, "title": "Francis" }
     ],
     "comments": [
-      { "id": 1, "body": "Esto es una prueba para consumo de apis", "postId": 1 },
+      { "id": 1, "body": "Esto es una prueba para consumo de apis para pruebas", "postId": 1 },
       { "id": 2, "body": "nuevo contenido", "postId": 2 },
-      { "id": 3, "body": "contenido", "postId": 3 },
-      { "id": 4, "body": "Izack Estudiante", "postId": 4 }
+      { "id": 3, "body": "contenido", "postId": 3 }
     ],
     "profile": {
       "name": "typicode"
